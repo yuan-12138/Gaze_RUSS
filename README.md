@@ -1,5 +1,5 @@
 # Gaze_RUSS
-Gaze-Guided Robotic Vascular Ultrasound Leveraging Human Intention Estimation
+## Gaze-Guided Robotic Vascular Ultrasound Leveraging Human Intention Estimation
 <div align="center">
 <img src=overview.png  width=80%/>
 </div>
